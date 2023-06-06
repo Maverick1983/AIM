@@ -3,6 +3,8 @@
 # Aegis Implicit Mail (AIM)
 Aegis Implicit Mail is a free and open source library which is designed to provide fast and developer friendly API to send emails using SMTP ports. 
 
+In this fork I change TargetFramework to net48 for my old project.
+
 
 
 # Why AIM
